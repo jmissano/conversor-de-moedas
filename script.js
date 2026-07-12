@@ -1,5 +1,3 @@
-/* Aula 18 de JS Conversor de Moedas  */
-
 /* SELECIONAR ELEMENTOS */
 // selecionar input com o numero digitado
 let valorDigitado = document.querySelector('#valorEmReal')
